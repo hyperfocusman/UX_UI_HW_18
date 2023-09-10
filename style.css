@@ -5,21 +5,31 @@ body {
     margin: auto;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     letter-spacing: .6em;
     padding-top: 1em;
     padding-bottom: 1em;
 }
 
 h2 {
-    font-size: 1.5em;
-    padding-bottom: 1em;
+    font-size: 1.3em;
+    padding-bottom: .5em;
 }
 
 h3 {
     font-size: 1em;
     padding-bottom: 1em;
 }
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px;;
+  }
+  
+  td {
+    padding: 1px;
+  }
+
 ```css
 header {
    text-align: center;
